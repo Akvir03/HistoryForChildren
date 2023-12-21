@@ -1,59 +1,142 @@
-\documentclass{article}
-\usepackage{graphicx} % Required for inserting images
-\usepackage{hyperref} % Required for hyperlinks
-\usepackage[utf8]{inputenc} % For UTF-8 encoding
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={History for Children},
+  pdfauthor={Nathan Devienne \textbar{} Paul Hurdebourcq \textbar{} Théo Massias \textbar{} Amzil Marwane},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
 
 \title{History for Children}
-\author{Nathan Devienne | Paul Hurdebourcq | Théo Massias | Amzil Marwane}
+\author{Nathan Devienne \textbar{} Paul Hurdebourcq \textbar{} Théo
+Massias \textbar{} Amzil Marwane}
 \date{December 2023}
 
 \begin{document}
-
 \maketitle
 
-\section{Introduction}
-Le but de cet outil est de permettre à des jeunes enfants de découvrir les mondes pré-historique, antiques et médiévaux de chez eux.
+\section{Introduction}\label{introduction}
 
-\section{Maquettes}
-\subsection{Monde Préhistorique}
+Le but de cet outil est de permettre à des jeunes enfants de découvrir
+les mondes pré-historique, antiques et médiévaux de chez eux.
+
+\section{Maquettes}\label{maquettes}
+
+\subsection{Monde Préhistorique}\label{monde-pruxe9historique}
+
 \begin{figure}
-    \centering
-    \includegraphics[width=0.50\linewidth]{https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Pré-histoire%201ere%20personne.png}
-    \caption{Maquette préhistorique}
-    \label{fig:enter-label}
+\centering
+\includegraphics{https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Pré-histoire\%201ere\%20personne.png}
+\caption{Maquette préhistorique}
 \end{figure}
 
-\subsection{Monde Médiéval}
+\subsection{Monde Médiéval}\label{monde-muxe9diuxe9val}
+
 \begin{figure}
-    \centering
-    \includegraphics[width=0.50\linewidth]{https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Epoque%20médiévale.png}
-    \caption{Maquette médiévale}
-    \label{fig:enter-label}
+\centering
+\includegraphics{https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Epoque\%20médiévale.png}
+\caption{Maquette médiévale}
 \end{figure}
 
-\subsection{Monde Antique}
+\subsection{Monde Antique}\label{monde-antique}
+
 \begin{figure}
-    \centering
-    \includegraphics[width=0.50\linewidth]{https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Antiquité.png}
-    \caption{Maquette du monde antique}
-    \label{fig:enter-label}
+\centering
+\includegraphics{https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Antiquité.png}
+\caption{Maquette du monde antique}
 \end{figure}
-\section{Méthode d'Installation}
+
+\section{Méthode d'Installation}\label{muxe9thode-dinstallation}
+
 Pour installer ce projet, veuillez suivre les étapes suivantes :
+
 \begin{enumerate}
-    \item Téléchargez et installez UNITY à partir de \href{https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe}{ce lien}.
-    \item Créez un compte Unity.
-    \item Téléchargez le projet depuis GitHub.
-    \item Ouvrez le projet dans Unity.
-    \item Lancez Steam et téléchargez Steam VR.
-    \item Connectez votre casque VR.
-    \item Appuyez sur le bouton PLAY dans Unity pour découvrir notre univers.
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Téléchargez et installez UNITY à partir de
+  \href{https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe}{ce
+  lien}.
+\item
+  Créez un compte Unity.
+\item
+  Téléchargez le projet depuis GitHub.
+\item
+  Ouvrez le projet dans Unity.
+\item
+  Lancez Steam et téléchargez Steam VR.
+\item
+  Connectez votre casque VR.
+\item
+  Appuyez sur le bouton PLAY dans Unity pour découvrir notre univers.
 \end{enumerate}
 
-\section{Personae}
-Le public cible de ce projet est constitué de jeunes enfants âgés de 8 à 14 ans, curieux de découvrir les mondes préhistorique, médiéval et antique.
+\section{Personae}\label{personae}
 
-\section{Crédits & Modèles utilisés}
+Le public cible de ce projet est constitué de jeunes enfants âgés de 8 à
+14 ans, curieux de découvrir les mondes préhistorique, médiéval et
+antique.
+
+\section{Crédits \& Modèles
+utilisés}\label{cruxe9dits-moduxe8les-utilisuxe9s}
+
 À venir
 
 \end{document}
