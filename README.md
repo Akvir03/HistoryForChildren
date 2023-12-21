@@ -1,6 +1,6 @@
 ---
 Auteurs:
-- Nathan Devienne \| Paul Hurdebourcq \| Théo Massias \| Amzil Marwane
+- Nathan Devienne | Paul Hurdebourcq | Théo Massias | Amzil Marwane
 Date: Décembre 2023
 Titre: History for Children
 ---
