@@ -1,0 +1,33 @@
+name: Convert Markdown to HTML with Theme
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Setup Pandoc
+        run: sudo apt-get install pandoc
+
+      - name: Convert Markdown to HTML
+        run: |
+          echo '<a href="doc.html">Go to Doc</a>' >> index.md
+          echo '<a href="index.html">Go to Index</a>' >> doc.md
+          echo '<link rel="stylesheet" type="text/css" href="style.css">' > header.html
+          pandoc index.md -s --include-in-header=header.html -o index.html
+          pandoc doc.md -s --include-in-header=header.html -o doc.html
+
+      - name: Commit HTML files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add *.html
+          git commit -m "Convert Markdown to HTML with Theme"
+          git push
