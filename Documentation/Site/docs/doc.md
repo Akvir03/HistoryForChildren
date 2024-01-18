@@ -19,15 +19,15 @@ Voyagez à travers ces époques et intéragissez avec le monde pour en apprendre
 
 ## Monde Préhistorique
 
-![](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Pré-histoire%201ere%20personne.png)
+![TEST](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Pré-histoire%201ere%20personne.png)
 
 ## Monde Médiéval
 
-![](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Epoque%20médiévale.png)
+![TEST](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Epoque%20médiévale.png)
 
 ## Monde Antique
 
-![](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Antiquité.png)
+![TEST](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Antiquité.png)
 
 # Méthode d'Installation
 
@@ -50,7 +50,7 @@ Pour installer ce projet, veuillez suivre les étapes suivantes :
 # Les commandes
 
 ## Aide pour commandes
-![](https://i.imgur.com/hDSbyS4.png)
+![TEST](https://i.imgur.com/hDSbyS4.png)
 
 ## Le système de déplacement
 
@@ -71,5 +71,3 @@ Vous souhaitez savoir plus sur ce qui se trouve autour de vous ? Chercher les pl
 - HURDEBOURCQ Paul
 - AMZIL Marwane
 - MASSIAS Théo
-## Artiste
-- HURDEBOURCQ Paul
