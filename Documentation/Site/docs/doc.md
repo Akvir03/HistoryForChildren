@@ -1,50 +1,77 @@
-# Documentation
+---
+Auteurs:
+- Nathan Devienne | Paul Hurdebourcq | Théo Massias | Amzil Marwane
+Date: Décembre 2023
+Titre: History for Children
+---
 
-## Absentem deae populi
+# Introduction
 
-Lorem markdownum barbae metus olim suscipitur naturae dedit extra, me vivo nec
-mortales tempore disiecit pompa. Totidem nondum.
+Ce jeu est pour tout les intéressés de l'histoire ! Conseillé pour les enfants de 10 à 12 ans, cette aventure vous emmène à travers trois époques de notre civilisation !
 
-Maerent Iovi Aeacides amictu instanti: deae semihomines Solis. Visus sic altas
-recanduit proelia, eras, ait et ensem es Pandrosos oracula tunc quos mea domus.
+- La Préhistoire
+- L'Antiquité
+- Et le Moyen-Âge !
 
-## Omnibus adparuit qui opemque pondus restitit coniugis
+Voyagez à travers ces époques et intéragissez avec le monde pour en apprendre plus !
+# Maquettes
 
-Destinat feruntur undis. Et meum; tibi nomine, fixa qua potest coniugis tellus
-illa Ulixes mihi prensis erat invidia sorore reverentia! Quas et a potes misit
-vincere quantum promisistis missa et pericli sitim. Vultus roganti me fontibus
-sparsurus, aestus rauco nymphas fero, est.
+## Monde Préhistorique
 
-## In Ausonia crevit Phineus deos
+![Maquette
+préhistorique](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Pré-histoire%201ere%20personne.png)
 
-Dardanidas resumere paternis amor poenas *precari nomine* pavidam inferre et
-victima sonum cum tellus Gangetica. Tamen duroque qua, opem ignibus aliquid, cum
-*nullo* urbi terram everti per harum? Angi unda ignis morari, concurreret
-Iasiona ore, [et hunc](http://bracchia.org/alteralapithas), aspexisse concutit
-et vulnere moderamen. Turribus [et](http://www.est.net/utraque-ipsum) fortuna
-viros ille fieretque tam frater litoream plumis.
+## Monde Médiéval
 
-Suo in mora. Rauco vellera. Minorem cumque, terras ipse
-[cuius](http://temptantes.org/mandata.php), carchesia profundo revertebar fata,
-ita ara.
+![Maquette
+médiévale](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Epoque%20médiévale.png)
 
-## Peteret tactusque pennis
+## Monde Antique
 
-Dat orat temptanda **et Antigonen**, seges te malleus vestris: faciemque
-tumulati bitumineae; noctis, cum veluti.
-[Facias](http://www.leto.com/reccidit-ulnis) non gener alternis; fuerit orbem
-ictaque dubio, plangoris posita mensis reformet tantae munusque quoque, sine.
+![Maquette du monde
+antique](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Antiquité.png)
 
-## Enim vidisset remi
+# Méthode d'Installation
 
-Spumantia vulnera, ac nacta paulatim Herculeis tolle sceleris. *Fila fine
-videat* ab terra certe ego ferar Athenas torum **vestigia genitus**, per sed
-violentaque. Mora in, sonuit lacteus? In umbra annos, est dabat haec, meam in
-fassus non? **Potes sentirent** addere soror nomen negabat et Sicula: crine usus
-valet.
+Pour installer ce projet, veuillez suivre les étapes suivantes :
 
-1. Hac saevit induta carens umbras squalidus sensit
-2. Nocuit et morte equidem
-3. Erat nec recondidit et acumine nonam
+1.  Téléchargez et installez Unity à partir de [ce lien](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe).
 
-Tremuloque creatus natorum, atro suo. Siquis sitis.
+2.  Créez un compte Unity.
+
+3.  Téléchargez le projet depuis GitHub.
+
+4.  Ouvrez le projet dans Unity.
+
+5.  Lancez [Steam](https://store.steampowered.com/) et téléchargez Steam VR.
+
+6.  Connectez votre casque VR.
+
+7.  Appuyez sur le bouton "Play" dans Unity pour découvrir notre univers.
+
+# Les commandes
+
+## Aide pour commandes
+![Aide pour commandes](https://i.imgur.com/hDSbyS4.png)
+
+## Le système de déplacement
+
+Téléportez-vous en pointant le joystick en avant et visez l'endroit souhaité. Si la cible est verte, alors lachez le joystick, et vous vous téléporterez !
+
+## Interaction avec le monde
+
+Interagissez avec le monde en bougeant les mains pour appuyer sur des boutons, ou attraper des objets en appuyant sur l'une des gachettes arrière !
+
+## Trouver les informations
+
+Vous souhaitez savoir plus sur ce qui se trouve autour de vous ? Chercher les plateformes avec des cubes, si vous appuyez sur ces cubes avec vos mains, une information apparaîtra devant vous ! Attrapez-la, puis lisez-la. Vous aurez toute les informations que vous voulez !
+
+# Crédits 
+
+## Développeurs
+- DEVIENNE Nathan
+- HURDEBOURCQ Paul
+- AMZIL Marwane
+- MASSIAS Théo
+## Artiste
+- HURDEBOURCQ Paul

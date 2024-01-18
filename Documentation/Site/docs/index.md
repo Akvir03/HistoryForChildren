@@ -7,13 +7,9 @@ Titre: History for Children
 
 # Introduction
 
-Ce jeu est pour tout les intéressés de l'histoire ! Conseillé pour les enfants de 10 à 12 ans, cette aventure vous emmène à travers trois époques de notre civilisation !
+Le but de cet outil est de permettre à des jeunes enfants de découvrir
+les mondes pré-historique, antiques et médiévaux de chez eux.
 
-- La Préhistoire
-- L'Antiquité
-- Et le Moyen-Âge !
-
-Voyagez à travers ces époques et intéragissez avec le monde pour en apprendre plus !
 # Maquettes
 
 ## Monde Préhistorique
@@ -35,7 +31,7 @@ antique](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Docum
 
 Pour installer ce projet, veuillez suivre les étapes suivantes :
 
-1.  Téléchargez et installez Unity à partir de [ce lien](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe).
+1.  Téléchargez et installez UNITY à partir de [ce lien](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe).
 
 2.  Créez un compte Unity.
 
@@ -43,35 +39,18 @@ Pour installer ce projet, veuillez suivre les étapes suivantes :
 
 4.  Ouvrez le projet dans Unity.
 
-5.  Lancez [Steam](https://store.steampowered.com/) et téléchargez Steam VR.
+5.  Lancez Steam et téléchargez Steam VR.
 
 6.  Connectez votre casque VR.
 
-7.  Appuyez sur le bouton "Play" dans Unity pour découvrir notre univers.
+7.  Appuyez sur le bouton PLAY dans Unity pour découvrir notre univers.
 
-# Les commandes
+# Personae
 
-## Aide pour commandes
-![Aide pour commandes](https://i.imgur.com/hDSbyS4.png)
+Le public cible de ce projet est constitué de jeunes enfants âgés de 8 à
+14 ans, curieux de découvrir les mondes préhistorique, médiéval et
+antique.
 
-## Le système de déplacement
+# Crédits & Modèles utilisés
 
-Téléportez-vous en pointant le joystick en avant et visez l'endroit souhaité. Si la cible est verte, alors lachez le joystick, et vous vous téléporterez !
-
-## Interaction avec le monde
-
-Interagissez avec le monde en bougeant les mains pour appuyer sur des boutons, ou attraper des objets en appuyant sur l'une des gachettes arrière !
-
-## Trouver les informations
-
-Vous souhaitez savoir plus sur ce qui se trouve autour de vous ? Chercher les plateformes avec des cubes, si vous appuyez sur ces cubes avec vos mains, une information apparaîtra devant vous ! Attrapez-la, puis lisez-la. Vous aurez toute les informations que vous voulez !
-
-# Crédits 
-
-## Développeurs
-- DEVIENNE Nathan
-- HURDEBOURCQ Paul
-- AMZIL Marwane
-- MASSIAS Théo
-## Artiste
-- HURDEBOURCQ Paul
+À venir
