@@ -14,22 +14,20 @@ Ce jeu est pour tout les intéressés de l'histoire ! Conseillé pour les enfant
 - Et le Moyen-Âge !
 
 Voyagez à travers ces époques et intéragissez avec le monde pour en apprendre plus !
+
 # Maquettes
 
 ## Monde Préhistorique
 
-![Maquette
-préhistorique](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Pré-histoire%201ere%20personne.png)
+![](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Pré-histoire%201ere%20personne.png)
 
 ## Monde Médiéval
 
-![Maquette
-médiévale](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Epoque%20médiévale.png)
+![](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Epoque%20médiévale.png)
 
 ## Monde Antique
 
-![Maquette du monde
-antique](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Antiquité.png)
+![](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Antiquité.png)
 
 # Méthode d'Installation
 
@@ -52,7 +50,7 @@ Pour installer ce projet, veuillez suivre les étapes suivantes :
 # Les commandes
 
 ## Aide pour commandes
-![Aide pour commandes](https://i.imgur.com/hDSbyS4.png)
+![](https://i.imgur.com/hDSbyS4.png)
 
 ## Le système de déplacement
 
