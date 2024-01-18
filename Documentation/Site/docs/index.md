@@ -14,18 +14,15 @@ les mondes pré-historique, antiques et médiévaux de chez eux.
 
 ## Monde Préhistorique
 
-![Maquette
-préhistorique](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Pré-histoire%201ere%20personne.png)
+![](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Pré-histoire%201ere%20personne.png)
 
 ## Monde Médiéval
 
-![Maquette
-médiévale](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Epoque%20médiévale.png)
+![](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Epoque%20médiévale.png)
 
 ## Monde Antique
 
-![Maquette du monde
-antique](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Antiquité.png)
+![](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Antiquité.png)
 
 # Méthode d'Installation
 
