@@ -7,8 +7,10 @@ Titre: History for Children
 
 # Introduction
 
-Le but de cet outil est de permettre à des jeunes enfants de découvrir
-les mondes pré-historique, antiques et médiévaux de chez eux.
+Le but de ce jeu est de permettre à des jeunes enfants de découvrir
+de grandes époques historique telles que la Préhistoire, le Moyen-Âge ainsi que l'Antiquité.
+
+Une documentation utilisateur est disponible sur ce même projet dans le dossier suivant : /Documentation/Site/docs
 
 # Maquettes
 
@@ -26,31 +28,3 @@ médiévale](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/D
 
 ![Maquette du monde
 antique](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Antiquité.png)
-
-# Méthode d'Installation
-
-Pour installer ce projet, veuillez suivre les étapes suivantes :
-
-1.  Téléchargez et installez UNITY à partir de [ce lien](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe).
-
-2.  Créez un compte Unity.
-
-3.  Téléchargez le projet depuis GitHub.
-
-4.  Ouvrez le projet dans Unity.
-
-5.  Lancez Steam et téléchargez Steam VR.
-
-6.  Connectez votre casque VR.
-
-7.  Appuyez sur le bouton PLAY dans Unity pour découvrir notre univers.
-
-# Personae
-
-Le public cible de ce projet est constitué de jeunes enfants âgés de 8 à
-14 ans, curieux de découvrir les mondes préhistorique, médiéval et
-antique.
-
-# Crédits & Modèles utilisés
-
-À venir
