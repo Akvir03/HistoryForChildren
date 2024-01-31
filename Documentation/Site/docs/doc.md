@@ -15,20 +15,6 @@ Ce jeu est pour tout les intéressés de l'histoire ! Conseillé pour les enfant
 
 Voyagez à travers ces époques et intéragissez avec le monde pour en apprendre plus !
 
-# Maquettes
-
-## Monde Préhistorique
-
-![TEST](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Pré-histoire%201ere%20personne.png)
-
-## Monde Médiéval
-
-![TEST](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Epoque%20médiévale.png)
-
-## Monde Antique
-
-![TEST](https://raw.githubusercontent.com/Akvir03/HistoryForChildren/main/Documentation/Maquette/Antiquité.png)
-
 # Méthode d'Installation
 
 Pour installer ce projet, veuillez suivre les étapes suivantes :
@@ -54,20 +40,8 @@ Pour installer ce projet, veuillez suivre les étapes suivantes :
 
 ## Le système de déplacement
 
-Téléportez-vous en pointant le joystick en avant et visez l'endroit souhaité. Si la cible est verte, alors lachez le joystick, et vous vous téléporterez !
+Téléportez-vous en pointant le joystick en avant et visez l'endroit souhaité. Lorsque la cible devient verte, il suffit de lâcher le joystick, et vous vous téléporterez !
 
-## Interaction avec le monde
+## Trouver toutes les informations !!!
 
-Interagissez avec le monde en bougeant les mains pour appuyer sur des boutons, ou attraper des objets en appuyant sur l'une des gachettes arrière !
-
-## Trouver les informations
-
-Vous souhaitez savoir plus sur ce qui se trouve autour de vous ? Chercher les plateformes avec des cubes, si vous appuyez sur ces cubes avec vos mains, une information apparaîtra devant vous ! Attrapez-la, puis lisez-la. Vous aurez toute les informations que vous voulez !
-
-# Crédits 
-
-## Développeurs
-- DEVIENNE Nathan
-- HURDEBOURCQ Paul
-- AMZIL Marwane
-- MASSIAS Théo
+A l'intérieur des mondes historiques, vous aurez l'occasion de rencontrer de petites "buzzers" posés sur son piédestal. Il suffit d'appuyer avec votre main virtuelle et vous aurez alors tout un tas d'informations qui vous seront fournies au sujet d'un élément du décor ou de l'époque !
