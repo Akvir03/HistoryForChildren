@@ -10,7 +10,7 @@ Titre: History for Children
 Le but de ce jeu est de permettre à des jeunes enfants de découvrir
 de grandes époques historique telles que la Préhistoire, le Moyen-Âge ainsi que l'Antiquité.
 
-Une documentation utilisateur est disponible sur ce même projet dans le dossier suivant : /Documentation/Site/docs
+Une documentation utilisateur est disponible sur ce même projet dans le dossier suivant : /Documentation/Site/docs/doc.md
 
 # Maquettes
 
