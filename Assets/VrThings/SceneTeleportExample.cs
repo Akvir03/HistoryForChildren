@@ -1,16 +1,14 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using Valve.VR.InteractionSystem.Sample;
+// Pas besoin de "using Valve.VR.InteractionSystem.Sample;" si vous êtes déjà dans cet espace de noms
 
 namespace Valve.VR.InteractionSystem.Sample
 {
     public class SceneTeleportExample : MonoBehaviour
     {
-        public HoverButton hoverButton; // Assurez-vous que HoverButton est accessible
-
-        public string sceneName = "NomDeVotreScene"; // Remplacez par le nom de votre scène
+        public HoverButton hoverButton;
+        public string sceneName = "NomDeVotreScene";
+        public Vector3 arrivalPosition = new Vector3(-19, 0, 3); // L'emplacement où le joueur doit apparaître dans la nouvelle scène
 
         private void Start()
         {
@@ -24,8 +22,13 @@ namespace Valve.VR.InteractionSystem.Sample
 
         private void TeleportToScene()
         {
+            // Stocker l'emplacement d'arrivée
+            PlayerPrefs.SetFloat("ArrivalPosX", arrivalPosition.x);
+            PlayerPrefs.SetFloat("ArrivalPosY", arrivalPosition.y);
+            PlayerPrefs.SetFloat("ArrivalPosZ", arrivalPosition.z);
+
+            // Charger la scène
             SceneManager.LoadScene(sceneName);
         }
     }
 }
-

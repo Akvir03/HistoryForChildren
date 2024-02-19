@@ -12,10 +12,10 @@ EditorBuildSettings:
     path: Assets/Scenes/JurassicScene.unity
     guid: 79b266d8cec511140b6d473fc81a0a82
   - enabled: 1
-    path: Assets/Scenes/Scene Moyen Age.unity
+    path: Assets/Scenes/Scene_Moyen_Age.unity
     guid: e259635b4db91fa40a834ae140c89d81
   - enabled: 1
-    path: Assets/Scenes/Scene Antique.unity
+    path: Assets/Scenes/Scene_Antique.unity
     guid: 69330f72808f7c74bbdc90b78239310f
   m_configObjects:
     Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 2936096b6fe70cf45b4966d3a79f4eda,
