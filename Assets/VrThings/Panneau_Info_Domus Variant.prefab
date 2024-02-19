@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &232732145731308418
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2703458922738425804, guid: d61ae42c524a92942885530d5c28977b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -17.030947
+      objectReference: {fileID: 0}
+    - target: {fileID: 2703458922738425804, guid: d61ae42c524a92942885530d5c28977b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.46889424
+      objectReference: {fileID: 0}
+    - target: {fileID: 2703458922738425804, guid: d61ae42c524a92942885530d5c28977b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 128.02016
+      objectReference: {fileID: 0}
+    - target: {fileID: 2703458922738425804, guid: d61ae42c524a92942885530d5c28977b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.659703
+      objectReference: {fileID: 0}
+    - target: {fileID: 2703458922738425804, guid: d61ae42c524a92942885530d5c28977b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7162918
+      objectReference: {fileID: 0}
+    - target: {fileID: 2703458922738425804, guid: d61ae42c524a92942885530d5c28977b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.15406385
+      objectReference: {fileID: 0}
+    - target: {fileID: 2703458922738425804, guid: d61ae42c524a92942885530d5c28977b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.16727927
+      objectReference: {fileID: 0}
+    - target: {fileID: 2703458922738425804, guid: d61ae42c524a92942885530d5c28977b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2703458922738425804, guid: d61ae42c524a92942885530d5c28977b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 184.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 2703458922738425804, guid: d61ae42c524a92942885530d5c28977b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5091236541186163961, guid: d61ae42c524a92942885530d5c28977b,
+        type: 3}
+      propertyPath: m_Name
+      value: Panneau_Info_Domus Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8469470056570328814, guid: d61ae42c524a92942885530d5c28977b,
+        type: 3}
+      propertyPath: m_text
+      value: 'Definition: A Domus was a private residence designed for wealthy families
+        in ancient Rome.
+
+        Architecture: Featured a central atrium with an
+        impluvium for collecting rainwater.
+
+        Interior: Richly decorated
+        with frescoes, mosaics, and sculptures to reflect the owner''s status.
+
+        Layout:
+        Included specialized rooms like the triclinium for dining and cubicula for
+        sleeping.
+
+        Social Significance: Served as a symbol of wealth and
+        social standing, emphasizing the owner''s role in Roman society.'
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d61ae42c524a92942885530d5c28977b, type: 3}
