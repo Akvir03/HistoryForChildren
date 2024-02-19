@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3242960076102208904
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 510306449292969476, guid: 115691da8de2c0441b91cb2ccbe167a1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 510306449292969476, guid: 115691da8de2c0441b91cb2ccbe167a1,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791749316779054158, guid: 115691da8de2c0441b91cb2ccbe167a1,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -15.88898
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791749316779054158, guid: 115691da8de2c0441b91cb2ccbe167a1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.7435705
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791749316779054158, guid: 115691da8de2c0441b91cb2ccbe167a1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 94.85087
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791749316779054158, guid: 115691da8de2c0441b91cb2ccbe167a1,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.659703
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791749316779054158, guid: 115691da8de2c0441b91cb2ccbe167a1,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7162918
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791749316779054158, guid: 115691da8de2c0441b91cb2ccbe167a1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.15406385
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791749316779054158, guid: 115691da8de2c0441b91cb2ccbe167a1,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.16727927
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791749316779054158, guid: 115691da8de2c0441b91cb2ccbe167a1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791749316779054158, guid: 115691da8de2c0441b91cb2ccbe167a1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 184.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791749316779054158, guid: 115691da8de2c0441b91cb2ccbe167a1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5016271180366270331, guid: 115691da8de2c0441b91cb2ccbe167a1,
+        type: 3}
+      propertyPath: m_Name
+      value: Panneau_Info_Statues Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8553266445739335020, guid: 115691da8de2c0441b91cb2ccbe167a1,
+        type: 3}
+      propertyPath: m_text
+      value: 'Material: Often made of bronze or marble, materials chosen for their
+        durability and beauty.
+
+        Realism: Roman sculptors aimed for a realistic
+        portrayal of their subjects, capturing individual characteristics and even
+        imperfections.
+
+        Cultural Significance: Statues commemorated individuals,
+        deities, and events, reinforcing social and political status.
+
+        Artistic
+        Techniques: Advanced methods included lost-wax casting for bronze and detailed
+        carving for marble.
+
+        Preservation: Many statues were preserved in
+        volcanic ash or repurposed in later periods, contributing to their survival
+        into the modern era.'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8553266445739335020, guid: 115691da8de2c0441b91cb2ccbe167a1,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8553266445739335020, guid: 115691da8de2c0441b91cb2ccbe167a1,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 4
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 115691da8de2c0441b91cb2ccbe167a1, type: 3}
