@@ -34,7 +34,7 @@ public class PlayerArrival : MonoBehaviour
         }
         else if (sceneName == "Scene_Antique")
         {
-            arrivalPosition = new Vector3(13, 1, 120);
+            arrivalPosition = new Vector3(12, 1, 116);
         }
         else
         {
