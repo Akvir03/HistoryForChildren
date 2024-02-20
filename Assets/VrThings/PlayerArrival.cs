@@ -7,9 +7,11 @@ public class PlayerArrival : MonoBehaviour
 
     private void Start()
     {
-        currentSceneName = SceneManager.GetActiveScene().name;
+        currentSceneName = "JurassicScene";
+        SceneManager.LoadScene(currentSceneName);
         SetPlayerPositionBasedOnScene(currentSceneName);
     }
+
 
     private void Update()
     {

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028331, g: 0.2257133, b: 0.3069217, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -80401,6 +80401,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 585d390be49338847a62d6aa6548a55c, type: 3}
+<<<<<<< Updated upstream
 --- !u!1 &1453184901
 GameObject:
   m_ObjectHideFlags: 0
@@ -87131,6 +87132,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1571943616}
   m_Mesh: {fileID: -1550514412580984892, guid: 5b9d02ad60bd2b84e9b3deecb1b42027, type: 3}
+=======
+>>>>>>> Stashed changes
 --- !u!1001 &1573987597
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -94194,6 +94197,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a10ba81fe2754942ba9c33c7120fe4f, type: 3}
+<<<<<<< Updated upstream
 --- !u!1 &1729323760
 GameObject:
   m_ObjectHideFlags: 0
@@ -104494,6 +104498,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d37a7afe5b34f245816dd6ce3348904, type: 3}
+=======
+>>>>>>> Stashed changes
 --- !u!1001 &1926269984
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -115304,7 +115310,10 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 268621384}
+<<<<<<< Updated upstream
   - {fileID: 1596428619}
+=======
+>>>>>>> Stashed changes
   - {fileID: 303734019}
   - {fileID: 423900475}
   - {fileID: 1070444376}
